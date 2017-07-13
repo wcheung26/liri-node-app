@@ -111,8 +111,8 @@ function spotifySearch() {
         if (!error) {
             var song = data.tracks.items[0];
             var songArtists = "";
-            for (var i = 0; i < song.album.artists.length; i++) {
-                songArtists += song.album.artists[i].name + ", "
+            for (var i = 0; i < song.artists.length; i++) {
+                songArtists += song.artists[i].name + ", "
             }
             songArtists = songArtists.slice(0, -2);
             console.log("Artist(s): " + songArtists);
