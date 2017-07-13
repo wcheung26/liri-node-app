@@ -1,0 +1,29 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language interpreter",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william cheung",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5",
+    "omdb": "^0.8.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcheung26/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "bugs": {
+    "url": "https://github.com/wcheung26/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/wcheung26/liri-node-app#readme"
+}
