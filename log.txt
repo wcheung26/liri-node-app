@@ -2,34 +2,84 @@
 ****** 
 Command: my-tweets
 
-1. @fixation_photo @EDC_LasVegas @insomniacevents @emmi__babi Such a good sunrise. Hope to run into you again soon!
-2. @killthenoise Yeah dude. Hardest boss of the game until the ringed city. Don't give up!
-3. Under silent skies I hear the echo of your heart again...listen to 'Silent Skies' + the whole EP here -… https://t.co/mrw2DwhoqY
-4. @TrivectaMusic @emmi__babi Niiiice!
-5. Happy anniversary @emmi__babi . So lucky to have you. Here's to another epic five years and many more after that! :) https://t.co/kQCcrwFAWN
-6. @britt_keeling @shiannetrammell @liltrippyqueen I'll definitely play some :)
-7. @Hoylaus @MoonriseFest @imaginemusicfes That's a pretty dark one. I really.only play it at headlining shows since a… https://t.co/81NqpPjDUu
-8. Tune in today between noon-2 PM Pacific to hear my exclusive guestmix for @MyonMuzik and @rideradiofm!  #RIDE016 https://t.co/tig4DiOT7e
-9. @KingDin77 Niiiice 🙌
-10. @DjThaimex Apparently that record label had other ideas haha. Still soon though. I think.
-11. @unlikepluto Fire walk with me.
-12. @3LAU Thanks man! 🤘
-13. 😉 https://t.co/hJ8cqbSkZL
-14. @JulezKing Thanks man. Much appreciated :)
-15. Really stoked to be playing B2B with @JasonRossOfc for #ABGT250 at @GorgeAmphitheat! https://t.co/dZpSZ4Ssgj
-16. Check out the official music video to Freesol - https://t.co/82U4rHVZbO https://t.co/XRkntBvU0r
-17. RT @bassbunnyxo: Slow dive into me
+1. Wed Jul 12 17:19:26 +0000 2017
+@fixation_photo @EDC_LasVegas @insomniacevents @emmi__babi Such a good sunrise. Hope to run into you again soon!
+
+2. Wed Jul 12 08:37:42 +0000 2017
+@killthenoise Yeah dude. Hardest boss of the game until the ringed city. Don't give up!
+
+3. Tue Jul 11 17:48:56 +0000 2017
+Under silent skies I hear the echo of your heart again...listen to 'Silent Skies' + the whole EP here -… https://t.co/mrw2DwhoqY
+
+4. Fri Jul 07 20:30:21 +0000 2017
+@TrivectaMusic @emmi__babi Niiiice!
+
+5. Fri Jul 07 19:33:35 +0000 2017
+Happy anniversary @emmi__babi . So lucky to have you. Here's to another epic five years and many more after that! :) https://t.co/kQCcrwFAWN
+
+6. Fri Jul 07 19:14:23 +0000 2017
+@britt_keeling @shiannetrammell @liltrippyqueen I'll definitely play some :)
+
+7. Tue Jul 04 18:40:45 +0000 2017
+@Hoylaus @MoonriseFest @imaginemusicfes That's a pretty dark one. I really.only play it at headlining shows since a… https://t.co/81NqpPjDUu
+
+8. Tue Jul 04 18:37:15 +0000 2017
+Tune in today between noon-2 PM Pacific to hear my exclusive guestmix for @MyonMuzik and @rideradiofm!  #RIDE016 https://t.co/tig4DiOT7e
+
+9. Mon Jul 03 15:32:08 +0000 2017
+@KingDin77 Niiiice 🙌
+
+10. Mon Jul 03 00:57:21 +0000 2017
+@DjThaimex Apparently that record label had other ideas haha. Still soon though. I think.
+
+11. Sun Jul 02 07:45:37 +0000 2017
+@unlikepluto Fire walk with me.
+
+12. Sat Jul 01 03:50:15 +0000 2017
+@3LAU Thanks man! 🤘
+
+13. Sat Jul 01 02:38:08 +0000 2017
+😉 https://t.co/hJ8cqbSkZL
+
+14. Sat Jul 01 02:37:37 +0000 2017
+@JulezKing Thanks man. Much appreciated :)
+
+15. Fri Jun 30 19:36:44 +0000 2017
+Really stoked to be playing B2B with @JasonRossOfc for #ABGT250 at @GorgeAmphitheat! https://t.co/dZpSZ4Ssgj
+
+16. Fri Jun 30 16:09:35 +0000 2017
+Check out the official music video to Freesol - https://t.co/82U4rHVZbO https://t.co/XRkntBvU0r
+
+17. Thu Jun 29 18:44:40 +0000 2017
+RT @bassbunnyxo: Slow dive into me
 Float high endlessly
 Hearts will shake
 Wide awake
 Love me till the tether breaks 🎶 @SevenLionsMusic
-18. I'm doing a @reddit AMA in r/electronicmusic today at 2pm PST! https://t.co/p75zjO93Iv
-19. Thanks for all the love on the new EP guys. Means a lot :)
-20. @SaidTheSky @jrampersad17 Daaang! Nice
+
+18. Thu Jun 29 18:14:51 +0000 2017
+I'm doing a @reddit AMA in r/electronicmusic today at 2pm PST! https://t.co/p75zjO93Iv
+
+19. Tue Jun 27 22:50:22 +0000 2017
+Thanks for all the love on the new EP guys. Means a lot :)
+
+20. Tue Jun 27 21:54:35 +0000 2017
+@SaidTheSky @jrampersad17 Daaang! Nice
+
+
+****** 
+Command: spotify-this-song
+Song: Steps+of+Deep+Slumber
+
+Artist(s): Seven Lions
+Song name: Steps of Deep Slumber
+Album name: Where I Won't Be Found
+Preview URL: https://p.scdn.co/mp3-preview/3c7dbc5d09ee8f22e427bf8c9e47ebe52be9a128?cid=a8f092b2fec747bcad3a617a2a1fcc92
+
 
 ****** 
 Command: movie-this
-Movie: shutter+island
+Movie: Shutter+Island
 
 Title: Shutter Island
 Year: 2010
@@ -42,15 +92,11 @@ Actors: Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow
 
 
 ****** 
-Command: movie-this
-Movie: undefined
+Command: spotify-this-song
+Song: I+Want+it+That+Way
 
-Title: Mr. Nobody
-Year: 2009
-IMDB Rating: 7.9
-Rotten Tomatoes Rating: 64%
-Country: Belgium, Germany, Canada, France, USA, UK
-Language: English, Mohawk
-Plot: English, Mohawk
-Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Artist(s): Backstreet Boys
+Song name: I Want It That Way
+Album name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a8f092b2fec747bcad3a617a2a1fcc92
 

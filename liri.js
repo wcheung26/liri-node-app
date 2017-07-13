@@ -29,7 +29,7 @@ if (process.argv[4] === undefined) {
     };
     value += process.argv[process.argv.length - 1];
 }
-console.log('Value: ',value)
+console.log('Value: ',value);
 
 // Twitter query parameters
 var twitterParams = {
@@ -42,28 +42,34 @@ var spotifyParams = {
     type: 'track',
     query: value,
     limit: 1
-}
+};
 
-// Movies query parameters
 
 // Defining commands
-if (command === "my-tweets" || command === "spotify-this-song" || command === "movie-this" || command === "do-what-it-says") {
-    switch (command) {
-        case "my-tweets":
-            twitterSearch();
-            break
-        case "spotify-this-song":
-            spotifySearch();
-            break
-        case "movie-this":
-            movieSearch();
-            break
-        case "do-what-it-says":
-            break
+function run() {
+    console.log(command,value)
+    if (command === "my-tweets" || command === "spotify-this-song" || command === "movie-this" || command === "do-what-it-says") {
+        switch (command) {
+            case "my-tweets":
+                twitterSearch();
+                break
+            case "spotify-this-song":
+                spotifySearch();
+                break
+            case "movie-this":
+                movieSearch();
+                break
+            case "do-what-it-says":
+                doWhat();
+                break
+        }
+    } else {
+        console.log("Please enter a valid command")
     }
-} else {
-    console.log("Please enter a valid command")
 };
+
+// Run 
+run();
 
 // Tweet command output
 function twitterSearch() {
@@ -73,7 +79,7 @@ function twitterSearch() {
             var tweetCounter = 0;
             tweets.forEach(function(element){
                 tweetCounter ++;
-                fs.appendFile('log.txt', tweetCounter + ". " + element.text + "\n\n", function(err) {
+                fs.appendFile('log.txt', tweetCounter + ". " + element.created_at + "\n" + element.text + "\n\n", function(err) {
                 // If an error was experienced we say it.
                     if (err) {
                         console.log(err);
@@ -83,7 +89,8 @@ function twitterSearch() {
                     //  console.log("Content Added");
                     // };
                 });
-                console.log(tweetCounter + ". " + element.text);
+                console.log(tweetCounter + ". " + element.created_at)                
+                console.log(element.text);
             });
              
             // console.log(tweets.text);
@@ -95,6 +102,7 @@ function twitterSearch() {
 
 // Spotify command output
 function spotifySearch() {
+    spotifyParams.query = value;
     fs.appendFile('log.txt', '\n****** \nCommand: ' + command + '\nSong: ' + value + '\n\n');
     if (value === undefined || value === "") {
         spotifyParams.query = "The Sign Ace of Base";
@@ -149,7 +157,19 @@ function movieSearch() {
     });
 };
 
-
+// Do what it says
+function doWhat() {
+    fs.readFile('random.txt', 'utf8', function(err, data) {
+        if (err) {
+            console.log(err);
+        } else {
+            var data = data.split(',');
+            command = data[0];
+            value = data[1].replace(/ /g,'+').replace(/"/g,'');
+            run ();
+        } 
+    });
+};
 
 
 
